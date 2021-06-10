@@ -1,0 +1,77 @@
+Class 42:
+
+- Numbers and strings 
+       2
+2
+"hii alex"
+"hii alex"
+
+
+
+VARIABLES:
+xyz.length
+8
+xyz.toUpperCase
+ƒ toUpperCase() { [native code] }
+xyz.toUpperCase()
+"HIIIIIII"
+
+
+ARITHMETIC OPERATIONS:
+12%5
+2
+
+BOOLEAN -->TRUE/FALSE
+Comparison operators (>,<,>=,<=,===, !=) 
+
+
+CONDITIONAL PROGRAMMING
+IF (CONDITION)
+{
+}
+
+FOR (INIIALIZATION;CONDITION;INCREEMENTATION)
+{
+}if(3>2){
+	console.log("Happy")
+}
+else{
+	console.log("Not Happy")
+}var name = "my Name";
+
+switch(name) {  
+case  "My name":  
+console.log("Condition 1");  
+break;  
+case  "my Name":  
+console.log("Condition 2");  
+break;  
+default:  
+console.log("None of the conditions are true");
+}
+
+for(var i=0; i<=2; i++){
+	console.log(i)
+}
+VM552:2 0
+VM552:2 1
+VM552:2 2
+
+
+ARRAYS:
+var friends = ["friend1","friend2","friend3"]
+undefined
+friends[2]
+"friend3"
+friends.length
+3
+friends.push("friend4")
+4
+friends
+(4) ["friend1", "friend2", "friend3", "friend4"]
+friends.push("friend5")
+5
+friends
+(5) ["friend1", "friend2", "friend3", "friend4", "friend5"]
+friends.pop();
+"friend5"
